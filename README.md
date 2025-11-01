@@ -42,41 +42,23 @@ Includes account creation, login/logout, deposit, withdrawal with PIN security, 
 4. Withdraw        
 5. Display Account 
 6. Logout
+   
 Enter your Choice: 
 2
+
 Enter Account Number: 
 12345
+
 Enter Name: 
 Lakshiga Shree S P
+
 Enter Initial Balance: 
 1000000
+
 Set 4-digit PIN: 
 2005
+
 Account Created Successfully!
-========== BANK MANAGEMENT SYSTEM ==========
-1. Login
-2. Create Account
-3. Deposit
-4. Withdraw
-5. Display Account
-6. Logout
-Enter your Choice:
-1
-========== LOGIN ==========
-Enter Account Number:
-12345
-Enter PIN: 2005
-Login Successfull! Welcome  Lakshiga Shree S P
-========== BANK MANAGEMENT SYSTEM ==========
-1. Login
-2. Create Account
-3. Deposit
-4. Withdraw
-5. Display Account
-6. Logout
-Enter your Choice:
-6
-Logged Out Successfully! Thank You,  Lakshiga Shree S P
 
 ---
 
