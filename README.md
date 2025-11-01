@@ -78,7 +78,7 @@ Account Created Successfully!
 
 ![Preview](images/DIA4.jpg)
 
-## **Future Implementations/Enhancements
+## **Future Implementations/Enhancements**
 - GUI version using Java Swing or JavaFX
 - Web version using React(frontend) + Node.js/Java Spring Boot(Backend)
 - Integration with databases(MySQL/PostgreSQL) for persistent storage
