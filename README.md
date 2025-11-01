@@ -85,3 +85,7 @@ Account Created Successfully!
 - Mobile app version using Flutter or React Native
 - More security features(PIN hashing, email/mobile verification)
 - Transaction history, admin panel, multi-user login, online money transfer simulation.
+
+# **Author**
+-Lakshiga Shree S P
+-Email : lakshigashree822@gmail.com
