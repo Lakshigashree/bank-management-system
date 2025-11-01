@@ -36,7 +36,7 @@ Includes account creation, login/logout, deposit, withdrawal with PIN security, 
 5. Run the program:
    java BankManagementSystem
 
-   ***
+---
 
 ## **Sample Output**
 
@@ -78,6 +78,8 @@ Account Created Successfully!
 
 ![Preview](images/DIA4.jpg)
 
+---
+
 ## **Future Implementations/Enhancements**
 - GUI version using Java Swing or JavaFX
 - Web version using React(frontend) + Node.js/Java Spring Boot(Backend)
@@ -85,6 +87,8 @@ Account Created Successfully!
 - Mobile app version using Flutter or React Native
 - More security features(PIN hashing, email/mobile verification)
 - Transaction history, admin panel, multi-user login, online money transfer simulation.
+
+---
 
 # **Author**
 - Lakshiga Shree S P
