@@ -87,5 +87,5 @@ Account Created Successfully!
 - Transaction history, admin panel, multi-user login, online money transfer simulation.
 
 # **Author**
--Lakshiga Shree S P
--Email : lakshigashree822@gmail.com
+- Lakshiga Shree S P
+- Email : lakshigashree822@gmail.com
