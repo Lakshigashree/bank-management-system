@@ -89,3 +89,4 @@ Account Created Successfully!
 # **Author**
 - Lakshiga Shree S P
 - Email : lakshigashree822@gmail.com
+- [Connect with me on Linkedin](https://www.linkedin.com/in/lakshiga-shree-s-p-1908a6282)
